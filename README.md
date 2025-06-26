@@ -24,4 +24,4 @@ La plataforma permite registrar necesidades reales, visualizar solicitudes activ
 1. **Clonar el repositorio:**
 
    ```bash
-   https://github.com/Eliezer8666/Red-de-Donaciones-Comunitarias.git
+   https://github.com/Eliezer8666/Red-de-Donaciones.git
